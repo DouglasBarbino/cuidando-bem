@@ -44,7 +44,7 @@ define(function ()
             pegarAlgodao: new Score("Pegar algodão seco", 50),
             pegarLuvas: new Score("Pegar luvas", 50),
             pegarBandeja: new Score("Pegar bandeja", 50),
-            lavarMaosDepoisDePegarInstrumentos: new Score("Lavar mãos após pegar instrumentos", 200),
+            lavarMaosAntesLeito: new Score("Lavar mãos antes de ir para o leito do paciente", 200),
             falarComPaciente: new Score("Conversar com paciente", 50),
             verificarPulseira: new Score("Verificar Pulseira", 50),
             porLuvas: new Score("Vestir luvas", 50),
